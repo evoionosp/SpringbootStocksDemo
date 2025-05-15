@@ -19,7 +19,7 @@ I started by carefully analyzing both functional and technical requirements to e
 * Implement HTTPS enforcement and CORS policy 
 * Configure build flavors and log levels with proper logging framework
 * Implement stricter input validations
-* Use authentication (OAuth or JWT or any existing auth architecture at Qapital)
+* Use authentication (OAuth or JWT or any existing auth architecture)
 * make Decimal places and Default stock price externally configurable
 * Implement api rate-limiter per client or per user
 * Implement health check and monitoring endpoints
